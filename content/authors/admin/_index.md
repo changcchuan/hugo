@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 金泉
 
 # Is this the primary user of the site?
 superuser: true
@@ -57,6 +57,5 @@ social:
 #email: ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
+我喜歡音樂,愛好和平.
 我來自屏東,家境小康,無憂無慮
